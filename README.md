@@ -23,7 +23,7 @@ As this is a DNS server, you will have to change in either your browser settings
 or your IPv4 Network Adapter Options to use this as your DNS. On Windows you'll
 have to change the DNS server address to:
 
-[Windows DNS Settings](docs/res/windowsdns.PNG)
+![Windows DNS Settings](docs/res/windowsdns.PNG)
 
 ## What currently works?
 
